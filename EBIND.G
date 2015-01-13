@@ -1,0 +1,1 @@
+ebind.g no longer supported -- use ebrr.g instead.
